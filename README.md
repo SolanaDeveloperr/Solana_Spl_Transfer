@@ -1,4 +1,4 @@
-Solana Spl trasnfer Bot:
+Solana Spl Token trasnfer Bot:
 
 The bot can transfer from 25 wallets to 1 single wallet once you run it.
 The bot offers:
